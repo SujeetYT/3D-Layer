@@ -9,7 +9,7 @@ body{
     background: linear-gradient(rgba(4, 137, 226, 0.897), rgba(241, 0, 141, 0.808));
 }
 .text{
-    font-family: Gill Sans MT;
+    font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif;
     margin: 10px;
     padding-right: 150px;
     color: aliceblue;
