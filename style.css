@@ -8,14 +8,14 @@ body{
     justify-content: center;
     background: linear-gradient(rgba(4, 137, 226, 0.897), rgba(241, 0, 141, 0.808));
 }
-.text {
+.text{
     font-family: Gill Sans MT;
     margin: 10px;
     padding-right: 150px;
     color: aliceblue;
 }
 .container{
-    /* position: relative; */
+    position: relative;
     width: 360px;
     height: 640px;
     margin-top: 150px;
