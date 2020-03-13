@@ -34,7 +34,6 @@ body{
 .container:hover img:nth-child(4){
     transform: translate(160px, -160px);
     opacity: 1;
-    border: 1px rgb(102, 102, 102) solid;
 }
 .container:hover img:nth-child(3){
     transform: translate(120px, -120px);
