@@ -10,6 +10,8 @@ body{
 }
 .text{
     position: absolute;
+    top: 120px;
+    left: 20px;
     font-family: 'Ubuntu', sans-serif;
     margin: 10px;
     padding-right: 150px;
