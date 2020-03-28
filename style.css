@@ -47,4 +47,18 @@ body{
     transform: translate(40px, -40px);
     opacity: 0.4;
 }
-
+@media screen and (max-width: 768px){
+    .body{
+        overflow: hidden ;
+        width: 100%;
+    }
+    .text{
+        left: 70px;
+    }
+    .container{
+        width: 60%;
+        height: 420px;
+        position:relative;
+        top: 50px;
+    }
+}
