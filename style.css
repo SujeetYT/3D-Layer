@@ -6,7 +6,7 @@
 body{
     width: 100%;
     height: 150vh;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
     background: linear-gradient(225deg, rgba(4, 137, 226, 0.897), rgba(241, 0, 141, 0.808));
@@ -68,6 +68,7 @@ body{
         max-width: 60%;
         height: 40%;
         position:relative;
-        top: -10px;
+        top: 200px;
+        left:80px;
     }
 }
