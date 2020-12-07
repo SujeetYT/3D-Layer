@@ -61,14 +61,4 @@ body{
         align-items: center;
         justify-content: center ;
     }
-    .text{
-        left: 70px;
-    }
-    .container{
-        max-width: 60%;
-        height: 40%;
-        position:relative;
-        top: 150px;
-        left:80px;
-    }
-}
+ }
